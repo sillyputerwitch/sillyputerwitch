@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @nyakozero
-- 👀 I’m interested in things
-- 🌱 I’m currently learning things
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me leave me alone
+- 👋 Hi, I’m Artemis
+- 👀 I’m interested in ethical hacking
+- 🌱 I’m currently learning the basics of ethical hacking
+- 💞️ I’m not looking to collaborate currently
+- 📫 Reach me through twitter dms
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i am too lazy to make a good intro
+- ⚡ Fun fact: i still think i have an awful username and i strive to change it
 
 <!---
 nyakozero/nyakozero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
