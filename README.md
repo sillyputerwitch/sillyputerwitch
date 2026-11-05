@@ -1,3 +1,5 @@
-# silliest jellyfish lover in the world here
+# hi!
 
-Hey, my name's Artemis and I'm the best and only intern at Mosaic, but I also work on AmeOS Armamint (the arm port for AmeOS Panamint). My pronouns are she/any and I like stupid silly things and also cybersecurity even though I kinda suck at it
+I'm Artemis, a computer science student focusing on learning a bit of game development via godot engine, as well as cybersecurity on pwn.college!
+
+I currently use python, I am studying gdscript and I'm interested in learning C and javascript.
